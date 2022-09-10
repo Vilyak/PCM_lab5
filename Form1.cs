@@ -94,5 +94,15 @@ namespace WinFormsApp1
 
             dataGridViewVector.Rows[n].Cells[0].Value = string.Format("{0:f2}", X[n]);
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
